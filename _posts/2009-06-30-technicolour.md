@@ -3,7 +3,7 @@ layout: post
 title: June 2009 – Technicolour
 ---
 
-Theme for [this month][http://www.yakyak.org/viewtopic.php?t=76410] is "technicolour", as chosen by Moosedude.
+Theme for [this month](http://www.yakyak.org/viewtopic.php?t=76410) is "technicolour", as chosen by Moosedude.
 
 Finalists:
 
